@@ -58,10 +58,4 @@ temperature-based-fire-alarm-system/
 - Integrate a flame sensor for higher accuracy
 - Store temperature logs on an SD card
 
-## Author
 
-**Govind G Nair**
-
----
-
-Developed using **Arduino Uno** and **Wokwi Simulator**.
